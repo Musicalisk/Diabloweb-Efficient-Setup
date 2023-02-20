@@ -1,0 +1,10 @@
+Open DiaboWeb.mhtml 
+Click on the github link
+Then Click the third link at the bottom of the screen (there is a png that show the link)
+Then click on select mpq
+Then GO to DiabloWeb
+Then GO to DiabloWeb Saves
+Click on DIABAT.MPQ
+(Wait for it to load and you will have the game running)
+(Saves can be found after exiting diablo, and going to the save files tab in the Diabloweb launcher)
+(all Save files go into the DiabloWeb Save folder)
